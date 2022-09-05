@@ -1,3 +1,3 @@
 # OpenBootcamp - Resolución de los ejercicios
 
-placeholder
+✨ placeholder ✨
